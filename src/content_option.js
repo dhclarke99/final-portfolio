@@ -1,3 +1,10 @@
+import techBlog from './assets/images/Tech Blog.png';
+import bucketList from './assets/images/BucketList.png';
+import datePlanner from './assets/images/DatePlanner.png';
+import weatherDashboard from './assets/images/WeatherDashboard.png';
+import noteTaker from './assets/images/NoteTaker.png';
+
+
 const logotext = "David";
 const meta = {
     title: "David Clarke",
@@ -74,35 +81,35 @@ const services = [{
 
 const dataportfolio = [{
     title: "Tech Blog",
-    img: "https://picsum.photos/400/?grayscale",
+    img: techBlog,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "https://safe-stream-47655.herokuapp.com/",
     gitHubLink: 'https://github.com/dhclarke99/tech-blog'
 },
 {
     title: "BucketList Generator",
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: bucketList,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: 'https://pacific-beach-42449.herokuapp.com/',
     gitHubLink: 'https://github.com/dhclarke99/bucketlist-generator'
 },
 {
     title: "Date Planner",
-    img: "https://picsum.photos/400/?grayscale",
+    img: datePlanner,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: 'https://dhclarke99.github.io/date_planner/',
     gitHubLink: 'https://github.com/dhclarke99/date_planner'
 },
 {
     title: "Weather Dashboard",
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: weatherDashboard,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: 'https://dhclarke99.github.io/weather-dashboard/',
     gitHubLink: 'https://github.com/dhclarke99/weather-dashboard'
 },
 {
     title: "ExpressJS NoteTaker",
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: noteTaker,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: 'https://serene-hamlet-96189.herokuapp.com/',
     gitHubLink: 'https://github.com/dhclarke99/expressjs-note-taker'
@@ -111,8 +118,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "dhclarke99@gmail.com",
+    YOUR_FONE: "(650)888-7563",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -122,9 +129,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/dhclarke99",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/david-clarke-17355a185/",
     twitter: "https://twitter.com",
 };
 export {
