@@ -7,7 +7,7 @@ import {
   meta,
   resume,
   skills,
-  services,
+  interests,
 } from "../../content_option";
 
 export const About = () => {
@@ -45,18 +45,6 @@ console.log("click")
             </div>
           </Col>
         </Row>
-        <Row className=" sec_sp">
-          <Col lg="5">
-            <h3 className="color_sec py-4">Resume</h3>
-          </Col>
-          <Col lg="7">
-            
-              <button onClick={()=>{downloadFile(resume)}}>
-        Download my Resume
-      </button>
-             
-          </Col>
-        </Row>
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Skills</h3>
@@ -83,10 +71,10 @@ console.log("click")
         </Row>
         <Row className="sec_sp">
           <Col lang="5">
-            <h3 className="color_sec py-4">services</h3>
+            <h3 className="color_sec py-4">Interests</h3>
           </Col>
           <Col lg="7">
-            {services.map((data, i) => {
+            {interests.map((data, i) => {
               return (
                 <div className="service_ py-4" key={i}>
                   <h5 className="service__title">{data.title}</h5>
@@ -94,6 +82,18 @@ console.log("click")
                 </div>
               );
             })}
+          </Col>
+        </Row>
+        <Row className=" sec_sp">
+          <Col lg="5">
+            <h3 className="color_sec py-4">Resume</h3>
+          </Col>
+          <Col lg="7">
+            
+              <button onClick={()=>{downloadFile(resume)}}>
+        Download my Resume
+      </button>
+             
           </Col>
         </Row>
       </Container>

@@ -3,7 +3,7 @@ import bucketList from './assets/images/BucketList.png';
 import datePlanner from './assets/images/DatePlanner.png';
 import weatherDashboard from './assets/images/WeatherDashboard.png';
 import noteTaker from './assets/images/NoteTaker.png';
-
+import prof from './assets/images/prof.png';
 
 const logotext = "David";
 const meta = {
@@ -19,25 +19,25 @@ const introdata = {
         third: "I develop full-stack apps",
     },
     description: "Software Engineer - Full-Stack Applications - NYC",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: prof,
 };
 
 const dataabout = {
     title: "About Myself",
-    aboutme: "I am a full-stack software engineer specializing in the MERN (Mongodb, ExpressJS, React, NodeJS) application stack. I live in New York City and recently completed a rigorous coding bootcamp with the University of Pennsylvania, and am now in search of my first job as a software engineer. ",
+    aboutme: "I am a full-stack software engineer specializing in the MERN (Mongodb, ExpressJS, React, NodeJS) application stack. I live in New York City and recently completed a rigorous coding bootcamp with the University of Pennsylvania, and am now in search of my first job as a software engineer.",
 };
 const resume = "http://localhost:3000/David_Hernandez_Clarke_Resume-v2.pdf";
 
 const skills = [{
-    name: "Python",
+    name: "Javascript",
     value: 90,
 },
 {
-    name: "Djano",
+    name: "ExpressJS",
     value: 85,
 },
 {
-    name: "Javascript",
+    name: "MongoDB",
     value: 80,
 },
 {
@@ -45,21 +45,21 @@ const skills = [{
     value: 60,
 },
 {
-    name: "Jquery",
+    name: "mySQL",
     value: 85,
 },
 ];
 
-const services = [{
-    title: "UI & UX Design",
+const interests = [{
+    title: "Exercise",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
 },
 {
-    title: "Mobile Apps",
+    title: "Music",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
 },
 {
-    title: "Wordpress Design",
+    title: "Technology",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
 },
 ];
@@ -123,7 +123,7 @@ export {
     dataportfolio,
     resume,
     skills,
-    services,
+    interests,
     introdata,
     contactConfig,
     socialprofils,
