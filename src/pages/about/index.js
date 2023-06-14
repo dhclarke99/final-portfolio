@@ -11,15 +11,15 @@ import {
 } from "../../content_option";
 
 export const About = () => {
-  const downloadFile=(url)=> {
+  const downloadFile = (url) => {
     const fileName = url.split('/').pop();
-const aTag = document.createElement('a');
-aTag.href =url;
-aTag.setAttribute('download', fileName);
-document.body.appendChild(aTag);
-aTag.click();
-aTag.remove();
-console.log("click")
+    const aTag = document.createElement('a');
+    aTag.href = url;
+    aTag.setAttribute('download', fileName);
+    document.body.appendChild(aTag);
+    aTag.click();
+    aTag.remove();
+    console.log("click")
   };
   return (
     <HelmetProvider>
@@ -89,11 +89,11 @@ console.log("click")
             <h3 className="color_sec py-4">Resume</h3>
           </Col>
           <Col lg="7">
-            
-              <button onClick={()=>{downloadFile(resume)}}>
-        Download my Resume
-      </button>
-             
+
+            <button onClick={() => { downloadFile(resume) }}>
+              Download my Resume
+            </button>
+
           </Col>
         </Row>
       </Container>

@@ -52,15 +52,15 @@ const skills = [{
 
 const interests = [{
     title: "Exercise",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    description: "I enjoy multiple forms of exercise like weightlifting, playing basketball, and hiking.",
 },
 {
     title: "Music",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    description: "I've played guitar since I was 10 years old and have a passion for music in all forms.",
 },
 {
-    title: "Technology",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    title: "Bay Area Sports",
+    description: "Born and raised in the Bay Area, I've always been a huge fan and follower of the Giants, Warriors, and 49ers.",
 },
 ];
 
@@ -105,7 +105,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "dhclarke99@gmail.com",
     YOUR_FONE: "(650)888-7563",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Feel free to contact me regarding any job inquiries, services, or questions! ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_bg8lqmf",
