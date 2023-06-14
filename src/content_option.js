@@ -26,22 +26,7 @@ const dataabout = {
     title: "About Myself",
     aboutme: "I am a full-stack software engineer specializing in the MERN (Mongodb, ExpressJS, React, NodeJS) application stack. I live in New York City and recently completed a rigorous coding bootcamp with the University of Pennsylvania, and am now in search of my first job as a software engineer. ",
 };
-const worktimeline = [{
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-},
-{
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-},
-{
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-},
-];
+const resume = "http://localhost:3000/David_Hernandez_Clarke_Resume-v2.pdf";
 
 const skills = [{
     name: "Python",
@@ -136,7 +121,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
+    resume,
     skills,
     services,
     introdata,
