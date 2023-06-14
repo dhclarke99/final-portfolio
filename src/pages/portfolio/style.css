@@ -71,6 +71,7 @@
     background: var(--bg-color);
     border: solid 1px var(--text-color);
     padding: 4px 8px;
+    margin: 5px;
     text-align: center;
     font-size: 1rem;
 }

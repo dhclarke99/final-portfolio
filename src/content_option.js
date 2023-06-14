@@ -8,7 +8,7 @@ import noteTaker from './assets/images/NoteTaker.png';
 const logotext = "David";
 const meta = {
     title: "David Clarke",
-    description: "I’m David Clarke Software Engineer _ Full stack devloper,currently working in New York City",
+    description: "I’m David Clarke Software Engineer _ Full stack devloper, currently working in New York City",
 };
 
 const introdata = {
@@ -16,15 +16,15 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop full-stack apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Software Engineer - Full-Stack Applications - NYC",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Myself",
+    aboutme: "I am a full-stack software engineer specializing in the MERN (Mongodb, ExpressJS, React, NodeJS) application stack. I live in New York City and recently completed a rigorous coding bootcamp with the University of Pennsylvania, and am now in search of my first job as a software engineer. ",
 };
 const worktimeline = [{
     jobtitle: "Designer of week",
@@ -130,9 +130,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/dhclarke99",
-    facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/david-clarke-17355a185/",
-    twitter: "https://twitter.com",
 };
 export {
     meta,

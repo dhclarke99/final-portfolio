@@ -3,6 +3,8 @@ import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { dataportfolio, meta } from "../../content_option";
+import {FaGithub} from 'react-icons/fa'
+
 
 export const Portfolio = () => {
   return (
@@ -27,6 +29,7 @@ export const Portfolio = () => {
                 <div className="content">
                   <h3>{data.title}</h3>
                   <a href={data.link}>view project</a>
+                  <a href={data.gitHubLink}><FaGithub /></a>
                 </div>
               </div>
             );
