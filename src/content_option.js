@@ -14,9 +14,9 @@ const meta = {
 const introdata = {
     title: "I’m David Clarke",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop full-stack apps",
+        first: "I develop full-stack apps",
+        second: "I can dunk a basketball",
+        third: "Click the about tab to learn more!",
     },
     description: "Software Engineer - Full-Stack Applications - NYC",
     your_img_url: prof,
