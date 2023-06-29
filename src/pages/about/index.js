@@ -58,10 +58,10 @@ export const About = () => {
                     <div
                       className="progress-bar"
                       style={{
-                        width: `${data.value}%`,
+                        width: "100%",
                       }}
                     >
-                      <div className="progress-value">{data.value}%</div>
+                    
                     </div>
                   </div>
                 </div>

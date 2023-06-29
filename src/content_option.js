@@ -29,24 +29,19 @@ const dataabout = {
 const resume = "http://localhost:3000/David_Hernandez_Clarke_Resume-v2.pdf";
 
 const skills = [{
-    name: "Javascript",
-    value: 90,
+    name: "Javascript", 
 },
 {
-    name: "ExpressJS",
-    value: 85,
+    name: "ExpressJS",  
 },
 {
-    name: "MongoDB",
-    value: 80,
+    name: "MongoDB",   
 },
 {
-    name: "React",
-    value: 60,
+    name: "React",  
 },
 {
     name: "mySQL",
-    value: 85,
 },
 ];
 
