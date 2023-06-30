@@ -26,7 +26,7 @@ const dataabout = {
     title: "About Myself",
     aboutme: "I am a full-stack software engineer specializing in the MERN (Mongodb, ExpressJS, React, NodeJS) application stack. I live in New York City and recently completed a rigorous coding bootcamp with the University of Pennsylvania, and am now in search of my first job as a software engineer.",
 };
-const resume = "https://dhclarke99.github.io/final-portfolio/public/David_Hernandez_Clarke_Resume-v2.pdf";
+const resume = process.env.PUBLIC_URL + "/David_Hernandez_Clarke_Resume-v2.pdf";
 
 const skills = [{
     name: "Javascript", 
