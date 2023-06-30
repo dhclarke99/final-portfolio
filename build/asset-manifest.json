@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/final-portfolio/static/css/main.f0633686.css",
+    "main.js": "/final-portfolio/static/js/main.e3e8eb58.js",
+    "static/media/DatePlanner.png": "/final-portfolio/static/media/DatePlanner.651b6eadf7c454617b4a.png",
+    "static/media/Tech Blog.png": "/final-portfolio/static/media/Tech Blog.ae9158a51256258dc8c0.png",
+    "static/media/prof.png": "/final-portfolio/static/media/prof.ef890f7df13db12b8280.png",
+    "static/media/BucketList.png": "/final-portfolio/static/media/BucketList.834404e6f3fe48368256.png",
+    "static/media/WeatherDashboard.png": "/final-portfolio/static/media/WeatherDashboard.8d43767d4cc6c4da2da3.png",
+    "static/media/NoteTaker.png": "/final-portfolio/static/media/NoteTaker.9cd616e89a15d869e900.png",
+    "index.html": "/final-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f0633686.css",
+    "static/js/main.e3e8eb58.js"
+  ]
+}
