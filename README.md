@@ -14,7 +14,7 @@ There is no installation required. The only requirement is the webpage link.
 
 ## Usage
 
-Click this [link](https://dhclarke99.github.io/react-portfolio/) to view my portfolio.
+Click this [link](https://dhclarke99.github.io/final-portfolio/) to view my portfolio.
 
 
 ![Screenshot of Portfolio](./src/assets/images/screenshot.png)
