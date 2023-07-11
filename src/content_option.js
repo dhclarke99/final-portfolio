@@ -62,35 +62,35 @@ const interests = [{
 const dataportfolio = [{
     title: "Tech Blog",
     img: techBlog,
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "Full Stack blogging app that allows users to post blog content, comment on blogs, and perform CRUD operations.",
     link: "https://safe-stream-47655.herokuapp.com/",
     gitHubLink: 'https://github.com/dhclarke99/tech-blog'
 },
 {
     title: "BucketList Generator",
     img: bucketList,
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "Full-stack app that allows users to create and share Bucket Lists. ",
     link: 'https://pacific-beach-42449.herokuapp.com/',
     gitHubLink: 'https://github.com/dhclarke99/bucketlist-generator'
 },
 {
     title: "Date Planner",
     img: datePlanner,
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "Date planning app that suggests events to attend and restaurants to visit based on a city search.",
     link: 'https://dhclarke99.github.io/date_planner/',
     gitHubLink: 'https://github.com/dhclarke99/date_planner'
 },
 {
     title: "Weather Dashboard",
     img: weatherDashboard,
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "Weather app that provides current and 5-day forecasts for cities based on user search.",
     link: 'https://dhclarke99.github.io/weather-dashboard/',
     gitHubLink: 'https://github.com/dhclarke99/weather-dashboard'
 },
 {
     title: "ExpressJS NoteTaker",
     img: noteTaker,
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    description: "Notetaking app that uses an express server to save a user's notes",
     link: 'https://serene-hamlet-96189.herokuapp.com/',
     gitHubLink: 'https://github.com/dhclarke99/expressjs-note-taker'
 },
