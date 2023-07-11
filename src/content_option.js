@@ -47,7 +47,7 @@ const skills = [{
 
 const interests = [{
     title: "Exercise",
-    description: "I enjoy multiple forms of exercise like weightlifting, playing basketball, and hiking.",
+    description: "I enjoy multiple forms of exercise, especially weightlifting and playing basketball.",
 },
 {
     title: "Music",
@@ -99,7 +99,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "dhclarke99@gmail.com",
-    YOUR_FONE: "(650)888-7563",
+    YOUR_PHONE: "(650) 888-7563",
     description: "Feel free to contact me regarding any job inquiries, services, or questions! ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
