@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/final-portfolio/static/css/main.f0633686.css",
-    "main.js": "/final-portfolio/static/js/main.76d3e58b.js",
+    "main.js": "/final-portfolio/static/js/main.0499989a.js",
     "static/media/DatePlanner.png": "/final-portfolio/static/media/DatePlanner.651b6eadf7c454617b4a.png",
     "static/media/Tech Blog.png": "/final-portfolio/static/media/Tech Blog.ae9158a51256258dc8c0.png",
     "static/media/prof.png": "/final-portfolio/static/media/prof.ef890f7df13db12b8280.png",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.f0633686.css",
-    "static/js/main.76d3e58b.js"
+    "static/js/main.0499989a.js"
   ]
 }
