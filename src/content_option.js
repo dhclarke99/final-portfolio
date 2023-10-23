@@ -4,6 +4,7 @@ import datePlanner from './assets/images/DatePlanner.png';
 import weatherDashboard from './assets/images/WeatherDashboard.png';
 import noteTaker from './assets/images/NoteTaker.png';
 import prof from './assets/images/prof.png';
+import builtSturdy from './assets/images/builtSturdy.png';
 
 const logotext = "David";
 const meta = {
@@ -61,7 +62,7 @@ const interests = [{
 
 const dataportfolio = [{
         title: "Built Sturdy - Client Portal",
-        img: techBlog,
+        img: builtSturdy,
         description: "Full Stack application for personal trainers to deploy their services and manage clients.",
         link: "https://www.portal.builtsturdyblueprint.com/",
         gitHubLink: 'https://github.com/dhclarke99/builtsturdy-client-portal'
