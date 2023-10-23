@@ -65,7 +65,7 @@ const dataportfolio = [{
         img: builtSturdy,
         description: "Full Stack application for personal trainers to deploy their services and manage clients.",
         link: "https://www.portal.builtsturdyblueprint.com/",
-        gitHubLink: 'https://github.com/dhclarke99/builtsturdy-client-portal'
+        gitHubLink: 'https://github.com/dhclarke99/builtsturdy-client-app'
     },
     {
     title: "Tech Blog",
