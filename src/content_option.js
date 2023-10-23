@@ -60,6 +60,13 @@ const interests = [{
 ];
 
 const dataportfolio = [{
+        title: "Built Sturdy - Client Portal",
+        img: techBlog,
+        description: "Full Stack application for personal trainers to deploy their services and manage clients.",
+        link: "https://www.portal.builtsturdyblueprint.com/",
+        gitHubLink: 'https://github.com/dhclarke99/builtsturdy-client-portal'
+    },
+    {
     title: "Tech Blog",
     img: techBlog,
     description: "Full Stack blogging app that allows users to post blog content, comment on blogs, and perform CRUD operations.",
